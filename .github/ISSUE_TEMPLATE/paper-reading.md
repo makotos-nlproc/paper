@@ -1,5 +1,5 @@
 ---
-name: Title
+name: Paper Reading
 about: for paper reading
 title: ''
 labels: ''
@@ -7,9 +7,9 @@ assignees: makotos-nlproc
 
 ---
 
-[link]
+[link]()
 
-* From title
+- From title
 
 # abst
 
